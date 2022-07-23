@@ -17,20 +17,21 @@ const Health = () => {
           </div>
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-              Medical/Health reading
+              Lectura médica/salud
             </h1>
 
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
-              Recorded Audio of 20-30 Minutes.
+              Audio Grabado de 20-30 Minutos.
             </h2>
             <p className="mb-8 leading-relaxed text-justify">
-              Astrology for health reading – We can identify problem areas, as
-              well as the time when they may occur by carefully analyzing the
-              Birth chart, divisional charts, and planetary periods. Timely
-              action can prevent or mitigate potential health troubles. The
-              Vedic chart is also closely related to another Vedic science,
-              Ayurveda, and its principles. The chart reveals our Ayurvedic type
-              and what it means for us.
+              Lectura de astrología para la salud: podemos identificar áreas
+              problemáticas, así como el momento en que pueden ocurrir,
+              analizando cuidadosamente la carta natal, las cartas divisionales
+              y los períodos planetarios. La acción oportuna puede prevenir o
+              mitigar posibles problemas de salud. La astrología védica también
+              está estrechamente relacionada con otra ciencia védica, ayurveda,
+              y sus principios. El gráfico revela nuestro tipo ayurvédico y lo
+              que significa para nosotros.
             </p>
             <div className="flex justify-center">
               <Link href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=26979BXL9S2CN">
@@ -53,7 +54,7 @@ const Health = () => {
               <Link href="/sendbd">
                 <a>
                   <div className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg mr-5">
-                    Send Birth Details
+                    Envíenos datos de nacimiento
                   </div>
                 </a>
               </Link>

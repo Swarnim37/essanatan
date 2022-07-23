@@ -18,16 +18,16 @@ const Foreign = () => {
           </div>
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-              Foreign Settlement Reading
+              Lectura de asentamientos extranjeros
             </h1>
 
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
-              Recorded Audio of 15-30 Minutes.
+              Audio Grabado de 15-30 Minutos.
             </h2>
             <p className="mb-8 leading-relaxed text-justify">
-              The reading focuses on the possibility of foreign settlement. Is
-              it suitable for you? Are you going to prosper abroad? If so, when
-              is the best time to relocate?
+              La lectura se centra en la posibilidad de asentamiento extranjero.
+              Es adecuado para ti? ¿Vas a prosperar en el extranjero? Si es así,
+              ¿cuándo es el mejor momento para mudarse?
             </p>
             <div className="flex justify-center">
               <Link href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AZZAYJCV2ETMJ">
@@ -49,7 +49,7 @@ const Foreign = () => {
               <Link href="/sendbd">
                 <a>
                   <div className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg mr-5">
-                    Send Birth Details
+                    Envíenos datos de nacimiento
                   </div>
                 </a>
               </Link>

@@ -22,31 +22,33 @@ const Vedicastrology = () => {
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  Jyotish (Indian or also Vedic astrology)
+                  Jyotish (astrología india o también védica)
                 </h2>
                 <p className="leading-relaxed text-justify space-y-10">
-                  Vedic astrology is sidereal astrology that originated in
-                  India, in the Vedic period, a period more than 3000 years ago.
-                  It is based on the Vedic philosophy that brought the terms and
-                  concepts of karma and reincarnation to the world. Vedic
-                  astrology does not only consider the idea of the existence of
-                  the soul, its reincarnation, and the accumulation of karma but
-                  also perceives the universe as a conscious being of which we
-                  are a part. <br /> The Vedic horoscope is a reflection of our
-                  life journey in a given incarnation, depicting our nature and
-                  destiny (our karma) and pointing out our uniqueness. The
-                  purpose of reading is self-knowledge and understanding of our
-                  birth. By <q> self-knowledge</q> we mean something more than
-                  mere psychological analysis. <br />
-                  Based on the horoscope, an astrologer advises us on how to
-                  best use the potential we are born with, helps us understand
-                  the direction of development and the tendencies that affect us
-                  at different stages of our lives, and provides insight into
-                  our karma in all areas of life. <br /> The law of karma is
-                  seen as a combination of free will and a certain aspect of
-                  predestination, therefore a Vedic astrologer also offers
-                  within the reading options to manage more difficult karmic
-                  tasks and improve our karma.
+                  La astrología védica es astrología sideral que se originó en
+                  la India, en el período védico, un período hace más de 3000
+                  años. Se basa en la filosofía védica que trajo al mundo los
+                  términos y conceptos del karma y reencarnación. La astrología
+                  védica no solo considera la idea de la existencia del alma, su
+                  reencarnación y la acumulación de karma, sino que también
+                  percibe el universo como un ser consciente del cual somos
+                  parte. <br /> El horóscopo védico es un reflejo de nuestra
+                  vida en una encarnación dada, representando nuestra naturaleza
+                  y destino (nuestro karma) y señalando nuestra naturaleza
+                  única. La finalidad de la lectura es el autoconocimiento y la
+                  comprensión de nuestro nacimiento. Por autoconocimiento
+                  entendemos algo más que un mero análisis psicológico.
+                  <br />
+                  Con base en el horóscopo, un astrólogo nos aconseja sobre cómo
+                  usar mejor el potencial con el que nacemos, nos ayuda a
+                  comprender la dirección del desarrollo y las tendencias que
+                  nos afectan en las diferentes etapas de nuestras vidas, y nos
+                  da una idea de nuestro karma en todas las áreas de vida.{" "}
+                  <br /> La ley del karma se ve como una combinación de libre
+                  albedrío y un cierto aspecto de la predestinación, por lo
+                  tanto, un astrólogo védico también ofrece opciones dentro de
+                  la lectura como manejar tareas kármicas más difíciles y
+                  mejorar nuestro karma.
                 </p>
               </div>
             </div>
@@ -67,68 +69,74 @@ const Vedicastrology = () => {
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  About Jyotish
+                  Acerca de Jyotish
                 </h2>
                 <p className="leading-relaxed text-justify space-y-4">
-                  The culture of ancient India is the only of the ancient
-                  cultures that persist to this day, including its many customs,
-                  traditional sciences (astrology, Ayurveda, yoga, ...), and
-                  philosophy of life in general. <br /> Vedic astrology, called
-                  Jyotish in Sanskrit, was first created as one of the
-                  supporting texts of the ancient Vedas, the so-called Vedangas.
-                  The Vedas are one of the oldest texts that spiritually very
-                  advanced sages have acquired during deep meditations. No one
-                  knows exactly their true age, they were passed down orally for
-                  a long time before they were written around the 15th - 10th
-                  century B.C. The Vedas contain knowledge of all areas of life,
-                  in particular, the structure of the universe and man &#39;s
-                  relationship to <q> divinity</q> . Jyotish, like all Vedic
-                  philosophy, is based on three interrelated ideas: 1. man is
-                  essentially a spiritual being, 2. the existence of a soul, 3.
-                  the law of karma and reincarnation.
+                  La cultura de la India antigua es la única de las culturas
+                  antiguas que persiste hasta el día de hoy, incluidas sus
+                  muchas costumbres, las ciencias tradicionales (astrología,
+                  ayurveda, yoga, ...) y la filosofía de vida en general.
+                  <br /> La astrología védica, llamada Jyotish en sánscrito, se
+                  creó por primera vez como uno de los textos de apoyo de los
+                  antiguos Vedas, los llamados Vedangas. Los Vedas son uno de
+                  los textos más antiguos que sabios espiritualmente muy
+                  avanzados han adquirido durante meditaciones profundas. Nadie
+                  sabe exactamente su verdadera edad, se transmitieron oralmente
+                  durante mucho tiempo antes de que se escribieran alrededor del
+                  siglo XV al X a.C. Los Vedas contienen conocimiento de todas
+                  las áreas de la vida, en particular, la estructura del
+                  universo y la relación del hombre con la divinidad. Jyotish,
+                  como toda la filosofía védica, se basa en tres ideas
+                  interrelacionadas: 1. el hombre es esencialmente un ser
+                  espiritual, 2. la existencia de un alma, 3. la ley del karma y
+                  la reencarnación.
                   <br />
-                  The task of Jyotir Vedanga, one of the six Vedangas, was to
-                  observe the movement of cosmic bodies to determine the
-                  appropriate moment for various rituals. The ancient Vedic
-                  philosophers knew that we were part of the conscious universe,
-                  and everything had to be in harmony with it.
+                  La tarea de Jyotir Vedanga, uno de los seis Vedangas, era
+                  observar el movimiento de los cuerpos cósmicos para determinar
+                  el momento apropiado para varios rituales. Los antiguos
+                  filósofos védicos sabían que éramos parte del universo
+                  consciente y que todo tenía que estar en armonía con él.
                   <br />
-                  Later, astrology became a science of destiny used to
-                  understand events on Earth and clarify the life path of the
-                  individual. Vedic astrology deals with our soul, which is
-                  actually a separate, individualized, part of the cosmic entity
-                  (the whole universe is one great organism). The driving force
-                  of reincarnation is the desires of our soul. During each
-                  incarnation, we accumulate karma (the results of our past
-                  actions, thoughts, and intentions) and part of it colors our
-                  current incarnation. So, karma is actually something like our
-                  programming from the past - our behavior and approach to life.
-                  We behave according to past patterns, so there is a kind of
-                  inertia. Our destiny is not predetermined, we have free will,
-                  and it is up to us how we choose to react in certain
-                  situations, whether we change, or whether we continue with our
-                  usual pattern. Our activity in this life at the same time, we
-                  create our future karma.
+                  Luego, la astrología se convirtió en una ciencia del destino
+                  utilizada para comprender los acontecimientos en la Tierra y
+                  aclarar el camino de la vida del individuo. La astrología
+                  védica se ocupa de nuestra alma, que en realidad es una parte
+                  separada e individualizada de la entidad cósmica (el universo
+                  entero es un organismo). La fuerza impulsora de la
+                  reencarnación son los deseos de nuestra alma. Durante cada
+                  encarnación, acumulamos karma (los resultados de nuestras
+                  acciones, pensamientos e intenciones pasadas) y parte de él
+                  colorea nuestra encarnación actual. Entonces, el karma es en
+                  realidad algo así como nuestra programación del pasado:
+                  nuestro comportamiento y enfoque de la vida. Nos comportamos
+                  de acuerdo con patrones pasados, hay una especie de inercia.
+                  Nuestro destino no está predeterminado, tenemos libre albedrío
+                  y depende de nosotros como elegimos reaccionar en ciertas
+                  situaciones, si cambiamos o si continuamos con nuestro
+                  comportamiento habitual. Al mismo tiempo, creamos nuestro
+                  karma futuro.
                   <br />
-                  Vedic astrology shows the cosmic origin and background of
-                  forces operating in all areas of human activity. Time is a
-                  force field determined by the gravity of the bodies that are
-                  in it. In our solar system, the most important factors are the
-                  Sun and the planets. The planets are places of light in a vast
-                  energy network that gently connects the solar system into a
-                  single organism.
+                  La astrología védica muestra el origen cósmico y el trasfondo
+                  de las fuerzas que operan en todas las áreas de la actividad
+                  humana. El tiempo es un campo de fuerza determinado por la
+                  gravedad de los cuerpos que se encuentran en él. En nuestro
+                  sistema solar, los factores más importantes son el Sol y los
+                  planetas. Los planetas son lugares de luz en una vasta red de
+                  energía que conecta cuidadosamente el sistema solar en un solo
+                  organismo.
                   <br />
-                  Each of the planets receives and radiates energy and maintains
-                  the balance of the whole system. They constantly radiate
-                  different energy patterns and create the network of life.
+                  Cada uno de los planetas recibe e irradia energía y mantiene
+                  el equilibrio de todo el sistema. Constantemente irradian
+                  diferentes patrones de energía y crean la red de vida.
                   <br />
-                  The movement of the planets determines the nature of the
-                  different periods of our lives. As the rulers of the time, the
-                  planets rule our karma and destiny. Interestingly, Vedic
-                  scholars perceived the planets as divine beings or entities
-                  that control us in some way, and thus deliver karma to us.
-                  (They are agents of higher cosmic intelligence that control
-                  the operation of the entire cosmos.)
+                  El movimiento de los planetas determina la naturaleza de los
+                  diferentes períodos de nuestra vida. Como gobernantes del
+                  tiempo, los planetas gobiernan nuestro karma y destino.
+                  Curiosamente, los sabios védicos percibieron los planetas como
+                  seres divinos o entidades que nos controlan de alguna manera
+                  y, por lo tanto, nos entregan el karma. (Son agentes de
+                  inteligencia cósmica superior que controla el funcionamiento
+                  de todo el cosmos).
                 </p>
               </div>
             </div>
@@ -149,141 +157,148 @@ const Vedicastrology = () => {
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  Differences between Vedic and Western Astrology
+                  Las diferencias entre la astrología védica y la occidental
                 </h2>
                 <p className="leading-relaxed text-justify">
-                  Western astrology, i.e., what one commonly encounters in
-                  newspapers, magazines, or even in astrological courses or on
-                  the Internet, has a lot in common with the Vedic but is even
-                  more different. Both branches of astrology use planets, signs,
-                  and houses and that&#39;s probably all they have in common. I
-                  present the main differences below.
+                  La astrología occidental, es decir, lo que uno encuentra
+                  comúnmente en periódicos, revistas o incluso en cursos de
+                  astrología o en Internet, tiene mucho en común con la védica
+                  pero es aún más diferente. Ambas ramas de la astrología usan
+                  planetas, signos y casas y eso es probablemente todo lo que
+                  tienen en común. A continuación presento las principales
+                  diferencias.
                   <br />
-                  <b> a)</b> Vedic astrology uses the sidereal zodiac instead of
-                  the tropical zodiac used by western astrology. What is the
-                  difference between the two zodiacs? As the name suggests, the
-                  sidereal zodiac derives from the actual position of the stars
-                  in the sky. If we say that a planet is in the sign of Aries,
-                  we will actually see it in the sky against the background of
-                  that sign. The tropical zodiac, in contrast to the sidereal,
-                  is in fact a mathematical abstraction. According to the
-                  tropical zodiac, the Aries sign begins where the vernal
-                  equinox point falls that year, regardless of whether or not we
-                  see the planet in the background of the Aries sign when viewed
-                  from Earth. Likewise, after 30 degrees of Aries, another 30
-                  degrees of Taurus will follow, etc. In practice, this means
-                  that the sidereal zodiac is shifted back approximately 24
-                  degrees from the commonly used tropical zodiac. So when
-                  someone was born, for example, on July 10, they think that
-                  their Sun is in the sign of Cancer. However, according to the
-                  Sidereal zodiac, his Sun is in the sign of Gemini. If we think
-                  about the meaning of the word astrology &#40;Astros comes from
-                  Greek and means <q> related to the stars </q> , the sidereal
-                  zodiac makes more sense than the imaginary mathematically
-                  derived zodiac based only on the relative position of the
-                  Earth and the Sun (tropical zodiac).
+                  <b> a)</b> La astrología védica usa el zodíaco sideral en
+                  lugar del zodíaco tropical que usa la astrología occidental.
+                  ¿Cuál es la diferencia entre los dos zodiacos? Como sugiere el
+                  nombre, el zodíaco sideral se deriva de la posición real de
+                  las estrellas en el cielo. Si decimos que un planeta está en
+                  el signo de Aries, en realidad lo veremos en el cielo contra
+                  el fondo de ese signo. El zodíaco tropical, en contraste con
+                  el sideral, es de hecho una abstracción matemática. De acuerdo
+                  con el zodíaco tropical, el signo de Aries comienza donde cae
+                  el punto del equinoccio de primavera ese año,
+                  independientemente de si vemos o no el planeta en el fondo del
+                  signo de Aries. Asimismo, después de los 30 grados de Aries,
+                  seguirán otros 30 grados de Tauro, etc. En la práctica, esto
+                  significa que el zodíaco sideral se desplaza hacia atrás
+                  aproximadamente 24 grados con respecto al zodíaco tropical de
+                  uso común. Entonces, cuando alguien nació, por ejemplo, el 10
+                  de julio, piensa que su Sol está en el signo de Cáncer. Sin
+                  embargo, según el zodíaco sideral, su Sol está en el signo de
+                  Géminis. Si pensamos en el significado de la palabra
+                  astrología (la palabra “astros” proviene del griego y
+                  significa relacionado con las estrellas), el zodíaco sideral
+                  tiene más sentido que el zodíaco imaginario derivado
+                  matemáticamente basado solo en la posición relativa de la
+                  Tierra y el Sol (zodíaco tropical) .
                   <br />
-                  <b> b)</b> Vedic astrology, unlike Western astrology, which
-                  prefers the Sun, puts more emphasis on the ascendant and the
-                  Moon. If someone asks you,<q> What sign are you? </q> They
-                  mean the sign of the Moon at the time of your birth. The Moon
-                  is important because it reflects our minds and emotions. In
-                  addition to affecting our minds, the Moon also determines the
-                  sequence of our planetary periods in the most widely used
-                  system, the Vimshottari Dasha, because its position in a
-                  particular nakshatra determines the initial planetary period.
-                  Also, a planetary period sequence can begin in any part of the
-                  planetary period: at the beginning, in the middle, or at the
-                  end. The ascendant and the location of his ruler define our
-                  physical body and our manifestation in the material world, our
-                  direction to fulfillment. <br />
-                  <b> c) </b> Vedic astrology uses exclusively 7 by the naked
-                  eye visible planets and two lunar nodes, a total of 9
-                  so-called <q> Navagraha </q> (= 9 planets). Traditional
-                  Western astrology also mostly uses 7 traditional planets to
-                  determine the house rulership, however, it also works with
-                  trans-Saturnians Uranus, Neptune, and Pluto. Jyotish assumes
-                  that planets invisible to the naked eye have no effect on us.
-                  Vedic astrology does not work with these planets, although
-                  some neo-Vedic astrologers work with them, especially in
-                  mundane astrology. Likewise, Vedic astrology does not use
-                  asteroids.
+                  <b> b)</b> ) La astrología védica, a diferencia de la
+                  astrología occidental, que prefiere el Sol, pone más énfasis
+                  en el ascendente y la Luna. Si alguien quien usa la astrología
+                  védica te pregunta, ¿Qué signo eres? , quiere saber el signo
+                  de la Luna en tu horóscopo. La Luna es importante porque
+                  refleja nuestras mentes y emociones. Además de afectar
+                  nuestras mentes, la Luna también determina la secuencia de
+                  nuestros períodos planetarios en el sistema más utilizado, el
+                  Vimshottari Dasha, porque su posición en un nakshatra
+                  particular determina el período planetario inicial. <br />
+                  <b> c) </b> La astrología védica utiliza exclusivamente 7
+                  planetas visibles a simple vista y los dos nodos lunares, un
+                  total de 9 llamados navagraha (= 9 planetas). La astrología
+                  occidental tradicional también usa principalmente 7 planetas
+                  tradicionales para determinar el regente de la casa, sin
+                  embargo, también funciona con los trans-saturnos Urano,
+                  Neptuno y Plutón. Jyotish asume que los planetas invisibles a
+                  simple vista no tienen ningún efecto sobre nosotros. La
+                  astrología védica no trabaja con estos planetas, aunque
+                  algunos astrólogos neovédicos sí trabajan con ellos,
+                  especialmente en la astrología mundana. Asimismo, la
+                  astrología védica no utiliza asteroides.
                   <br />
-                  <b> d)</b> <b>Dashas</b> - planetary period. Vedic astrology,
-                  known for its very good ability to predict events, uses many
-                  sophisticated systems of planetary periods. Astrologers
-                  commonly use several such systems to detect concurrence, a
-                  high probability that an event will occur. Western astrology
-                  has no similar system, the closest to the Vedic Dasha are
-                  firdaria that have the same sequence of planetary periods (of
-                  course, each person has planets located differently) for
-                  everybody. There are only two different planetary sequences
-                  based on day and night birth. The most used system in Jyotish
-                  is Vimshottari Dasha, where the starting planetary period
-                  depends on the natal position of the Moon and thus is unique
-                  for every person. Some people may be born in the middle of the
-                  Dasha of Venus, some at the beginning of the Dasha of Jupiter,
-                  and some at the end of the planetary period of Rahu (northern
-                  node). The Dasha gives us a specific focus in the period
-                  depending on the position of the ruling planet in the houses,
-                  housesit rules, aspects, and position in the divisional
-                  horoscopes. Gochara (transits) are secondary, i.e. if we do
-                  not run the planetary period of the planet, its transit will
-                  not have a significant impact on our life.
+                  <b> d)</b> <b>Dashas</b> - períodos planetarios. La astrología
+                  védica, conocida por su muy buena capacidad de predecir
+                  eventos, utiliza muchos sistemas sofisticados de períodos
+                  planetarios. Los astrólogos suelen utilizar varios de estos
+                  sistemas para detectar la concurrencia y una alta probabilidad
+                  de que ocurra un evento. La astrología occidental no tiene un
+                  sistema similar, los más cercanos al dasha védico son los
+                  firdaria que tienen la misma secuencia de períodos planetarios
+                  (por supuesto, cada persona tiene planetas ubicados de manera
+                  diferente) para todos. Solo hay dos secuencias planetarias
+                  diferentes basadas en el nacimiento diurno y nocturno. El
+                  sistema más utilizado en Jyotish es Vimshottari Dasha, donde
+                  el período planetario inicial depende de la posición natal de
+                  la Luna y, por lo tanto, es único para cada persona. Algunas
+                  personas pueden nacer a la mitad del dasha de Venus, otras al
+                  comienzo del dasha de Júpiter y otras al final del período
+                  planetario de Rahu (nodo norte). El dasha nos da un enfoque
+                  específico en el período dependiendo de la posición del
+                  planeta, su regencia de las casas, los aspectos y la posición
+                  en los horóscopos divisionales. Los gochara (tránsitos) son
+                  secundarios, es decir, si no estamos en el período planetario
+                  del planeta, su tránsito no tendrá un impacto significativo en
+                  nuestra vida.
                   <br />
-                  <b> e) </b> <b> Vargas </b>or divisional charts- In Western
-                  astrology, minimally used divisional (called harmonic) charts
-                  are an integral part of the astrological analysis of a Vedic
-                  astrologer. Divisional charts are a kind of deeper look into
-                  every house of the horoscope, into our past lives, they
-                  indicate the real power of the planets (a planet weakened in
-                  D1, ie the main horoscope does not have to be weak and vice
-                  versa). 12 varga horoscopes are commonly used. They are marked
-                  with the letter D and a number, sometimes with their name in
-                  Sanskrit. For example, D1 is the main horoscope, sometimes
-                  also called the lagna horoscope or rashi. D9 called navamsh is
-                  an integral part of horoscope analysis and examines the
-                  quality of the planets, marriage, and the fate of the person.
+                  <b> e) </b> <b> Vargas </b>o cartas divisionales - en la
+                  astrología occidental, las cartas divisionales (llamadas
+                  armónicas) mínimamente utilizadas son una parte integral del
+                  análisis astrológico de un astrólogo védico. Las cartas
+                  divisionales son una especie de mirada más profunda a cada
+                  casa del horóscopo, a nuestras vidas pasadas, indican el poder
+                  real de los planetas (un planeta debilitado en D1, es decir,
+                  el horóscopo principal no tiene por qué ser débil y
+                  viceversa). Se utilizan comúnmente 12 horóscopos varga. Están
+                  marcados con la letra D y un número, a veces con su nombre en
+                  sánscrito. Por ejemplo, D1 es el horóscopo principal, a veces
+                  también llamado horóscopo lagna o rashi. D9 llamado navamsh es
+                  una parte integral del análisis del horóscopo y examina la
+                  calidad de los planetas, el matrimonio y el destino de la
+                  persona.
                   <br />
-                  <b> f)</b> <b> Nakshatras </b> or also called lunar mansions,
-                  are constellations (27, sometimes referred to as 28) in the
-                  background of zodiac signs, providing us complementary and
-                  more precise information. Each nakshatra is 13 ° 20´ long, so
-                  each sign contains 3 different nakshatras and therefore
-                  different parts of the sign still have different properties.
-                  In natal horoscopes, nakshatras determine the beginning of the
-                  sequence of planetary periods in the vimshottari system. In
-                  addition to being used in a dasha system, the nakshatras
-                  illustrate planetary qualities and specify personality traits.
-                  Nakshatras are of great importance and are an integral part of
-                  electional astrology called muhurat.
+                  <b> f)</b> <b> Nakshatras </b> - Nakshatras que también se
+                  llaman mansiones lunares, son constelaciones (27, a veces
+                  referidas como 28) en el fondo de los signos del zodiaco,
+                  brindándonos información complementaria y más precisa. Cada
+                  nakshatra tiene 13 ° 20´ de largo, por lo que cada signo
+                  contiene 3 nakshatras diferentes y, por lo tanto, las
+                  diferentes partes del signo aún tienen propiedades diferentes.
+                  En los horóscopos natales, los nakshatras determinan el
+                  comienzo de la secuencia de períodos planetarios en el sistema
+                  vimshottari. Además de usarse en un sistema dasha, los
+                  nakshatras ilustran cualidades planetarias y especifican
+                  rasgos de personalidad. Los nakshatras son de gran importancia
+                  y son una parte integral de la astrología electoral llamada
+                  muhurat.
                   <br />
-                  <b> g)</b> <b> Yogas</b> - the word yoga in Sanskrit means
-                  <q> union </q>. Yoga is unparalleled in Western astrology.
-                  They are different combinations and positions of planets that
-                  bring different things, such as fame, poverty, health
-                  problems, wisdom, success in life, and wealth. There are
-                  several hundred yoga classes. To give you an idea, this is a
-                  definition of raj yoga (royal yoga): it is a combination
-                  (conjunction, a mutual aspect, the reception of the ruler of
-                  an angular (4th, 7th, 10th house) with the ruler of the trinal
-                  house (1st, 5th or 9th house). Of course, yoga is stronger if
-                  one or both planets are domiciled or exalted - such as the
-                  conjunctions of the Moon (ruler of the 1st house) and Jupiter
-                  (ruler of the 9th house) in the first house in Cancer. Yoga
-                  brings to the person material well-being, and career success
-                  during the planetary period of the Moon or Jupiter. If the
-                  person does not go through these periods during his lifetime,
-                  the potential of this yoga cannot be expected to be fully
-                  realized. <br />
-                  <b> h) </b> <b> Alternative ascendants </b> - in addition to
-                  the main horoscope and the divisional D9, Vedic astrologers
-                  analyze many other horoscopes - the alternative ascendants.
-                  They rotate the horoscope so that the rising sign will be, for
-                  example, the sign where the Moon or the ruler of the planetary
-                  period, the Sun, or another sign is calculated according to a
-                  certain formula. Alternative ascendants describe a specific
-                  area in our life.
+                  <b> g)</b> <b> Yogas</b> - la palabra yoga en sánscrito
+                  significa unión. El yoga no tiene paralelo en la astrología
+                  occidental. Yogas son diferentes combinaciones y posiciones de
+                  planetas que traen cosas diferentes, como fama, pobreza,
+                  problemas de salud, sabiduría, éxito en la vida y riqueza. Hay
+                  varios cientos de clases de yoga. Para que se hagan una idea,
+                  esta es una definición de raj yoga (yoga real): es una
+                  combinación (conjunción, un aspecto mutuo, la recepción del
+                  regente de una casa angular (casa 1, 4, 7, 10) con el regente
+                  de la casa trinal (casa 1, 5 o 9). Por supuesto, el yoga es
+                  más fuerte si uno o ambos planetas están domiciliados o
+                  exaltados, como las conjunciones de la Luna (regente de la
+                  casa 1) y Júpiter (regente de la casa 9) en primera casa en
+                  Cáncer. El yoga trae a la persona bienestar material y éxito
+                  profesional durante el período planetario de la Luna o
+                  Júpiter. Si la persona no pasa por estos períodos durante su
+                  vida, el potencial de este yoga no puede ser realizado en su
+                  totalidad.
+                  <br />
+                  <b> h) </b> <b> Ascendentes alternativos </b> - además del
+                  horóscopo principal y el D9 divisional, los astrólogos védicos
+                  analizan muchos otros horóscopos: los ascendentes
+                  alternativos. Giran el horóscopo para que el signo ascendente
+                  sea, por ejemplo, el signo donde se encuentra la Luna o el
+                  regente del período planetario, el Sol u otro signo que se
+                  calcula según una determinada fórmula. Los ascendentes
+                  alternativos describen un área específica de nuestra vida con
+                  más detalle que el horóscopo principal.
                 </p>
               </div>
             </div>

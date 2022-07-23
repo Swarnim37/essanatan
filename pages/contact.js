@@ -8,10 +8,11 @@ const Contact = () => {
       <div className="container px-5 py-24 mx-auto font-abc">
         <div className="flex flex-col text-center w-full mb-12">
           <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
-            Contact Us
+            Contáctenos
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Get in touch with us through social Media or write us.
+            Ponte en contacto con nosotros a través de las redes sociales o
+            escríbenos.
           </p>
         </div>
 
@@ -24,13 +25,13 @@ const Contact = () => {
           </p>
 
           <span className="inLine-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
-            <Link href="https://www.facebook.com/Sanatan-Vedic-Astrology-106720835429910">
-              <a className="text-gray-900">
+            <Link href="https://www.facebook.com/Astrolog%C3%ADa-Sanatan-100257342785122">
+              <a target="_blank" className="text-gray-900">
                 <AiFillFacebook />
               </a>
             </Link>
             <Link href="https://twitter.com/SanatanAstro3">
-              <a className="ml-3 text-gray-900">
+              <a target="_blank" className="ml-3 text-gray-900">
                 <AiFillTwitterSquare />
               </a>
             </Link>

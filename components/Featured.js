@@ -17,7 +17,7 @@ const Featured = () => {
           </h2>
 
           <p className="leading-relaxed font-abc ">
-            Lead me from the unreal to the real, lead me from darkness to light.
+            Llévame de lo irreal a lo real, llévame de la oscuridad a la luz.
           </p>
         </div>
       </div>
@@ -37,17 +37,18 @@ const Featured = () => {
                   />
                 </div>
                 <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">
-                  What is Vedic Astrology?
+                  ¿Qué es la Astrología Védica?
                 </h2>
                 <p className="leading-relaxed text-base text-justify">
-                  Astrology is generally used to look farther off the curtain of
-                  the material world. To look into the world of subtle energies
-                  that work beyond our perception, influence our lives, and
-                  shape our destiny, our karma.
+                  La astrología generalmente se usa para mirar más allá de la
+                  cortina del mundo material. Para mirar en el mundo de las
+                  energías sutiles que funcionan más allá de nuestra percepción,
+                  influyen en nuestras vidas y dan forma a nuestro destino,
+                  nuestro karma
                 </p>
                 <Link href="/vedicastrology">
                   <button className="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-                    Learn More
+                    leer más
                   </button>
                 </Link>
               </div>
@@ -62,17 +63,17 @@ const Featured = () => {
                   />
                 </div>
                 <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">
-                  Consultations
+                  Consultas
                 </h2>
                 <p className="leading-relaxed text-base text-justify">
-                  The sophisticated Vedic Astrology System, which has been
-                  around for more than 2000 years, is very effective at
-                  foretelling future trends and major events. We provide several
-                  different readings to help you on your path through life.
+                  El sofisticado sistema de astrología védica, que existe desde
+                  hace más de 2000 años, es muy efectivo para predecir
+                  tendencias futuras y eventos importantes. Ofrecemos varias
+                  lecturas diferentes para ayudarle en su camino por la vida.
                 </p>
                 <Link href="/services">
                   <button className="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-                    Learn More
+                    Leer más
                   </button>
                 </Link>
               </div>

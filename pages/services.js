@@ -8,7 +8,7 @@ const Services = () => {
       <section className="text-gray-600 body-font font-abc">
         <div className="container px-5 py-24 mx-auto">
           <h1 className="sm:text-3xl text-2xl font-medium title-font text-center text-gray-900 mb-20">
-            Astrological Services
+            Servicios astrológicos
             {/*<br className="hidden sm:block" />
             Selfies Wayfarers*/}
           </h1>
@@ -27,10 +27,10 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio)
+                  Lectura (audio grabado)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Child Birth
+                  nacimiento del niño
                 </h2>
                 <p className="mt-1">€69.00</p>
               </div>
@@ -49,10 +49,10 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio)
+                  Lectura (audio grabado)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Career
+                  carrera profesional
                 </h2>
                 <p className="mt-1">€49.00</p>
               </div>
@@ -71,10 +71,10 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio)
+                  Lectura (audio grabado)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Relationship/Marriage
+                  relación/matrimonio
                 </h2>
                 <p className="mt-1">€49.00</p>
               </div>
@@ -93,10 +93,10 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio)
+                  Lectura (audio grabado)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Health
+                  médica/salud
                 </h2>
                 <p className="mt-1">€49.00</p>
               </div>
@@ -115,10 +115,11 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio or Live on Zoom/Skype)
+                  Lectura (Audio grabado o lectura en vivo en línea - Zoom o
+                  Skype)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Relationship Compatibility
+                  compatibilidad
                 </h2>
                 <p className="mt-1">€149.00</p>
               </div>
@@ -137,10 +138,10 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio)
+                  Lectura (audio grabado)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Home/Property
+                  hogar/propiedad
                 </h2>
                 <p className="mt-1">€49.00</p>
               </div>
@@ -159,10 +160,10 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio)
+                  Lectura (audio grabado)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Foreign Settlement
+                  asentamientos extranjeros
                 </h2>
                 <p className="mt-1">€49.00</p>
               </div>
@@ -181,10 +182,11 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio or Live on Zoom/Skype)
+                  Lectura (Audio grabado o lectura en vivo en línea - Zoom o
+                  Skype)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Birth Chart Analysis
+                  carta natal (60 minutos)
                 </h2>
                 <p className="mt-1">€149.00</p>
               </div>
@@ -203,10 +205,11 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio or Live on Zoom/Skype)
+                  Lectura (Audio grabado o lectura en vivo en línea - Zoom o
+                  Skype)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Birth Chart Analysis (90 Minutes)
+                  carta natal (90 minutos)
                 </h2>
                 <p className="mt-1">€195.00</p>
               </div>
@@ -225,10 +228,11 @@ const Services = () => {
               </Link>
               <div className="mt-4">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                  Reading (Recorded Audio or Live on Zoom/Skype)
+                  Lectura (Audio grabado o lectura en vivo en línea - Zoom o
+                  Skype)
                 </h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">
-                  Follow up reading
+                  seguimiento
                 </h2>
                 <p className="mt-1">€69.00</p>
               </div>

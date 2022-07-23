@@ -18,16 +18,16 @@ const Relationship = () => {
           </div>
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
             <h1 className="title-font sm:text-2xl text-2xl mb-4 font-medium text-gray-900">
-              Relationship reading
+              Lectura de relaciones
             </h1>
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
-              Recorded Audio of 15-30 Minutes.
+              Audio Grabado de 15-30 Minutos.
             </h2>
             <p className="mb-8 leading-relaxed text-justify">
-              A thorough analysis of the natal chart and relevant divisional
-              chart together with planetary period and transits reveals the time
-              periods with a high likelihood to establish a long-term
-              relationship.
+              Un análisis exhaustivo de la carta natal y la carta divisional
+              relevante junto con el período planetario y los tránsitos revela
+              los períodos de tiempo con una alta probabilidad de establecer una
+              relación a largo plazo.
             </p>
             <div className="flex justify-center">
               <Link href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BK2R9ZUPLH5X8">
@@ -50,7 +50,7 @@ const Relationship = () => {
               <Link href="/sendbd">
                 <a>
                   <div className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg mr-5">
-                    Send Birth Details
+                    Envíenos datos de nacimiento
                   </div>
                 </a>
               </Link>

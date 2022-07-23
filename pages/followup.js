@@ -18,14 +18,15 @@ const Followup = () => {
           </div>
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-              Follow Up Reading
+              Lectura de seguimiento
             </h1>
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
-              Recorded Audio or Live online reading of 30 Minutes.
+              Audio grabado o lectura en vivo en línea de 30 minutos.
             </h2>
             <p className="mb-8 leading-relaxed text-justify">
-              Usually, a 30-minute reading leaves enough time to provide
-              thorough responses to one or two questions for a previous client.
+              Por lo general, una lectura de 30 minutos deja tiempo suficiente
+              para brindar respuestas completas a una o dos preguntas de un
+              cliente anterior.
             </p>
             <div className="flex justify-center">
               <Link href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LUAWJGAHRYRV4">
@@ -47,7 +48,7 @@ const Followup = () => {
               <Link href="/sendbd">
                 <a>
                   <div className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg mr-5">
-                    Send Birth Details
+                    Envíenos datos de nacimiento
                   </div>
                 </a>
               </Link>

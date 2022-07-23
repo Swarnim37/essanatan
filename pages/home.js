@@ -18,15 +18,15 @@ const Home = () => {
           </div>
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
             <h1 className="title-font sm:text-2xl text-2xl mb-4 font-medium text-gray-900">
-              Home/Property Reading
+              Lectura Hogar/Propiedad
             </h1>
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
-              Recorded Audio of 15-30 Minutes.
+              Audio Grabado de 15-30 Minutos.
             </h2>
             <p className="mb-8 leading-relaxed  text-justify">
-              Examination of specific areas in your chart together with
-              planetary periods reveals when the probability of acquiring a
-              property is very high.
+              El examen de áreas específicas en su carta junto con los períodos
+              planetarios revela cuándo la probabilidad de adquirir una
+              propiedad es más alta.
             </p>
             <div className="flex justify-center">
               <Link href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9TYP277PXARVG">
@@ -48,7 +48,7 @@ const Home = () => {
               <Link href="/sendbd">
                 <a>
                   <div className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg mr-5">
-                    Send Birth Details
+                    Envíenos datos de nacimiento
                   </div>
                 </a>
               </Link>

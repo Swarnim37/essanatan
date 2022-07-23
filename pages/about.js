@@ -39,21 +39,9 @@ const About = () => {
               </div>
               <div className="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
                 <p className="leading-relaxed text-lg mb-4 text-justify">
-                  I have been actively practicing astrology for more than 15
-                  years. I studied Western and Vedic astrology. Vedic philosophy
-                  caught my attention with its logic, it explains the existence
-                  of the universe, our existence, and everything that happens in
-                  our lives. The Vedic concepts of the soul, the law of karma,
-                  and reincarnation make a lot of sense. I actively study not
-                  only astrology but also Ayurveda, Vastu, and Yoga. I completed
-                  a number of courses with leading Vedic astrologers, as well as
-                  psychology and counseling courses. I am also an educator,
-                  fluent in English, Czech and Spanish.
+                Practico activamente la astrología desde hace más de 15 años. Estudié astrología occidental y védica. La filosofía védica me llamó la atención por su lógica de explicar la existencia del universo, nuestra existencia y todo lo que sucede en nuestra vida. Los conceptos védicos del alma, la ley del karma y la reencarnación tienen mucho sentido. Estudio activamente no solo astrología sino también ayurveda, vastu y yoga. Completé varios cursos con destacados astrólogos védicos, así como cursos de psicología y consejería. También soy educadora, hablo inglés, checo y español con fluidez
                   <br />
-                  Sanatan Astrology comprises Vedic astrology researchers and
-                  practitioners from different walks of life. It aims to
-                  propagate the knowledge of Vedic sciences and guide people
-                  through the Vedic wisdom.
+                  Astrología Sanatan comprende investigadores y practicantes de astrología védica de diferentes ámbitos de la vida. Su objetivo es promover el conocimiento de las ciencias védicas y guiar a las personas a través de la sabiduría védica.
                 </p>
               </div>
             </div>
