@@ -36,7 +36,9 @@ const Footer = () => {
                 <a className="mr-5 hover:text-gray-900">Cursos</a>
               </Link>
               <Link href="https://esblog.sanatanved.com/">
-                <a className="mr-5 hover:text-gray-900">Blog</a>
+                <a target="_blank" className="mr-5 hover:text-gray-900">
+                  Blog
+                </a>
               </Link>
               <Link href="/books">
                 <a className="mr-5 hover:text-gray-900">Para Miembros</a>
