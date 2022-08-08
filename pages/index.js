@@ -9,11 +9,11 @@ export default function Home() {
         <title>Astrología Sanatan </title>
         <meta
           name="description"
-          content="Ofrecemos servicios de consultas astrológicas: lectura de carta natal, compatibilidad de pareja o de socios de negocio, selección del momento auspicioso para iniciar un negocio, boda, nacimiento de hijo."
+          content="Astrología Sanatan, Ofrecemos servicios de consultas astrológicas: lectura de carta natal, compatibilidad de pareja o de socios de negocio, selección del momento auspicioso para iniciar un negocio, boda, nacimiento de hijo."
         />
         <meta
           name="Keywords"
-          content=" carta astral, astrología védica, lectura de carta védica, signo lunar"
+          content=" Astrología Sanatan, carta astral, astrología védica, lectura de carta védica, signo lunar"
         />
         <link rel="icon" href="/img/logosvg.svg" />
       </Head>
