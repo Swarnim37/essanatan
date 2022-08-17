@@ -23,7 +23,7 @@ const Relationship = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Audio Grabado de 15-30 Minutos.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               Un análisis exhaustivo de la carta natal y la carta divisional
               relevante junto con el período planetario y los tránsitos revela
               los períodos de tiempo con una alta probabilidad de establecer una

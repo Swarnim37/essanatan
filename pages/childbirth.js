@@ -23,7 +23,7 @@ const Childbirth = () => {
           <h2 className="title-font sm:text-2xl text-xl mb-4 mt-3 font-medium text-gray-900">
             Audio Grabado de 15-30 Minutos.
           </h2>
-          <p className="mb-8 leading-relaxed text-justify">
+          <p className="mb-8 leading-relaxed text-left">
             Un análisis minucioso de la carta natal , así como de las cartas
             divisionales relacionadas de ambos padres junto con los períodos
             planetarios, puede mostrarle cuándo las influencias planetarias son

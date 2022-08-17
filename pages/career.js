@@ -23,7 +23,7 @@ const Career = () => {
           <h2 className="title-font sm:text-4xl text-xl mb-4 font-medium text-gray-900">
             Audio Grabado de 15-30 Minutos.
           </h2>
-          <p className="mb-8 leading-relaxed text-justify">
+          <p className="mb-8 leading-relaxed text-left">
             Usted puede estar interesado en varios tipos diferentes de carreras.
             La carta puede mostrar qué dirección es la más adecuada para ti,
             dónde puedes lograr el éxito y sentirte realizado. Los períodos

@@ -24,7 +24,7 @@ const Foreign = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Audio Grabado de 15-30 Minutos.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               La lectura se centra en la posibilidad de asentamiento extranjero.
               Es adecuado para ti? ¿Vas a prosperar en el extranjero? Si es así,
               ¿cuándo es el mejor momento para mudarse?

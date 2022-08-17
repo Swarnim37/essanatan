@@ -74,7 +74,7 @@ const Sendbd = () => {
             </li>
           </ul>
           <br />
-          <p className="font-abc text-justify">
+          <p className="font-abc text-left">
             <b> DESCARGO DE RESPONSABILIDAD:</b> Jyotish/Astrología trabaja con
             probabilidades y factores complejos que determinan el karma. Hay
             muchas variables a considerar, por lo que las predicciones son un

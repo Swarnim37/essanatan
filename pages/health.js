@@ -23,7 +23,7 @@ const Health = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Audio Grabado de 20-30 Minutos.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               Lectura de astrología para la salud: podemos identificar áreas
               problemáticas, así como el momento en que pueden ocurrir,
               analizando cuidadosamente la carta natal, las cartas divisionales

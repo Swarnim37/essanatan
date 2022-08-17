@@ -24,7 +24,7 @@ const Compatibility = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Audio grabado o lectura en vivo en línea de 60 minutos.
             </h2>
-            <p className="mb-8 leading-relaxed  text-justify">
+            <p className="mb-8 leading-relaxed  text-left">
               Lectura de compatibilidad: evaluación la compatibilidad de una
               pareja, socios comerciales, colegas, padres e hijos. La lectura
               consiste en un análisis de cartas individuales y también un

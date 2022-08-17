@@ -24,7 +24,7 @@ const Vedicastrology = () => {
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
                   Jyotish (astrología india o también védica)
                 </h2>
-                <p className="leading-relaxed text-justify space-y-10">
+                <p className="leading-relaxed text-left space-y-10">
                   La astrología védica es astrología sideral que se originó en
                   la India, en el período védico, un período hace más de 3000
                   años. Se basa en la filosofía védica que trajo al mundo los
@@ -71,7 +71,7 @@ const Vedicastrology = () => {
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
                   Acerca de Jyotish
                 </h2>
-                <p className="leading-relaxed text-justify space-y-4">
+                <p className="leading-relaxed text-left space-y-4">
                   La cultura de la India antigua es la única de las culturas
                   antiguas que persiste hasta el día de hoy, incluidas sus
                   muchas costumbres, las ciencias tradicionales (astrología,
@@ -159,7 +159,7 @@ const Vedicastrology = () => {
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
                   Las diferencias entre la astrología védica y la occidental
                 </h2>
-                <p className="leading-relaxed text-justify">
+                <p className="leading-relaxed text-left">
                   La astrología occidental, es decir, lo que uno encuentra
                   comúnmente en periódicos, revistas o incluso en cursos de
                   astrología o en Internet, tiene mucho en común con la védica

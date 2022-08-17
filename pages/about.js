@@ -38,10 +38,22 @@ const About = () => {
                 </div>
               </div>
               <div className="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
-                <p className="leading-relaxed text-lg mb-4 text-justify">
-                Practico activamente la astrología desde hace más de 15 años. Estudié astrología occidental y védica. La filosofía védica me llamó la atención por su lógica de explicar la existencia del universo, nuestra existencia y todo lo que sucede en nuestra vida. Los conceptos védicos del alma, la ley del karma y la reencarnación tienen mucho sentido. Estudio activamente no solo astrología sino también ayurveda, vastu y yoga. Completé varios cursos con destacados astrólogos védicos, así como cursos de psicología y consejería. También soy educadora, hablo inglés, checo y español con fluidez
+                <p className="leading-relaxed text-lg mb-4 text-left">
+                  Practico activamente la astrología desde hace más de 15 años.
+                  Estudié astrología occidental y védica. La filosofía védica me
+                  llamó la atención por su lógica de explicar la existencia del
+                  universo, nuestra existencia y todo lo que sucede en nuestra
+                  vida. Los conceptos védicos del alma, la ley del karma y la
+                  reencarnación tienen mucho sentido. Estudio activamente no
+                  solo astrología sino también ayurveda, vastu y yoga. Completé
+                  varios cursos con destacados astrólogos védicos, así como
+                  cursos de psicología y consejería. También soy educadora,
+                  hablo inglés, checo y español con fluidez
                   <br />
-                  Astrología Sanatan comprende investigadores y practicantes de astrología védica de diferentes ámbitos de la vida. Su objetivo es promover el conocimiento de las ciencias védicas y guiar a las personas a través de la sabiduría védica.
+                  Astrología Sanatan comprende investigadores y practicantes de
+                  astrología védica de diferentes ámbitos de la vida. Su
+                  objetivo es promover el conocimiento de las ciencias védicas y
+                  guiar a las personas a través de la sabiduría védica.
                 </p>
               </div>
             </div>

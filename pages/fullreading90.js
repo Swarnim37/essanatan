@@ -23,7 +23,7 @@ const Fullreading90 = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Audio grabado o lectura en vivo en línea de 90 Minutos.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               Horóscopo personal (el horóscopo completo) – La interpretación del
               horóscopo personal te dirá qué forma tu personalidad, cuáles son
               tus habilidades, en qué puedes sobresalir, hacia dónde te diriges,

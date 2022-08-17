@@ -23,7 +23,7 @@ const Followup = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Audio grabado o lectura en vivo en línea de 30 minutos.
             </h2>
-            <p className="mb-8 leading-relaxed text-justify">
+            <p className="mb-8 leading-relaxed text-left">
               Por lo general, una lectura de 30 minutos deja tiempo suficiente
               para brindar respuestas completas a una o dos preguntas de un
               cliente anterior.

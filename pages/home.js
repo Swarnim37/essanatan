@@ -23,7 +23,7 @@ const Home = () => {
             <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-gray-900">
               Audio Grabado de 15-30 Minutos.
             </h2>
-            <p className="mb-8 leading-relaxed  text-justify">
+            <p className="mb-8 leading-relaxed  text-left">
               El examen de áreas específicas en su carta junto con los períodos
               planetarios revela cuándo la probabilidad de adquirir una
               propiedad es más alta.
