@@ -39,7 +39,7 @@ const Featured = () => {
                 <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">
                   ¿Qué es la Astrología Védica?
                 </h2>
-                <p className="leading-relaxed text-base text-justify">
+                <p className="leading-relaxed text-base text-left">
                   La astrología generalmente se usa para mirar más allá de la
                   cortina del mundo material. Para mirar en el mundo de las
                   energías sutiles que funcionan más allá de nuestra percepción,
@@ -65,7 +65,7 @@ const Featured = () => {
                 <h2 className="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">
                   Consultas
                 </h2>
-                <p className="leading-relaxed text-base text-justify">
+                <p className="leading-relaxed text-base text-left">
                   El sofisticado sistema de astrología védica, que existe desde
                   hace más de 2000 años, es muy efectivo para predecir
                   tendencias futuras y eventos importantes. Ofrecemos varias
